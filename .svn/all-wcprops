@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/Makefile
+END

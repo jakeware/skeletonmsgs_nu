@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/msg
+END
+Hand.msg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/msg/Hand.msg
+END
+Hands.msg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/msg/Hands.msg
+END
+Skeleton.msg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/msg/Skeleton.msg
+END
+Skeletons.msg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/msg/Skeletons.msg
+END
+SkeletonJoint.msg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mit-ros-pkg/!svn/ver/731/tags/cturtle/kinect_utils/body_msgs/msg/SkeletonJoint.msg
+END

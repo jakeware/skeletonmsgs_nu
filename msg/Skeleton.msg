@@ -1,0 +1,16 @@
+int32 userid
+nu_skeletonmsgs/SkeletonJoint head
+nu_skeletonmsgs/SkeletonJoint neck
+nu_skeletonmsgs/SkeletonJoint right_hand
+nu_skeletonmsgs/SkeletonJoint left_hand
+nu_skeletonmsgs/SkeletonJoint right_shoulder
+nu_skeletonmsgs/SkeletonJoint left_shoulder
+nu_skeletonmsgs/SkeletonJoint right_elbow
+nu_skeletonmsgs/SkeletonJoint left_elbow
+nu_skeletonmsgs/SkeletonJoint torso
+nu_skeletonmsgs/SkeletonJoint left_hip
+nu_skeletonmsgs/SkeletonJoint right_hip
+nu_skeletonmsgs/SkeletonJoint left_knee
+nu_skeletonmsgs/SkeletonJoint right_knee
+nu_skeletonmsgs/SkeletonJoint left_foot
+nu_skeletonmsgs/SkeletonJoint right_foot
