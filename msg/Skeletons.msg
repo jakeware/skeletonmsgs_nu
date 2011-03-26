@@ -1,2 +1,2 @@
 Header header
-nu_skeletonmsgs/Skeleton[] skeletons
+skeletonmsgs_nu/Skeleton[] skeletons
