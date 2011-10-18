@@ -1,6 +1,4 @@
 # ignore these files
-Makefile
-.gitignore
 
 # ignore these directories and the files in them.
 *~
