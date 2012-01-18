@@ -8,7 +8,7 @@
   <license>BSD</license>
   <review status="unreviewed" notes=""/>
   <review status="unreviewed" notes=""/>
-  <depend package="mapping_msgs"/>
+  <depend package="arm_navigation_msgs"/>
   <depend package="geometry_msgs"/>
   <depend package="sensor_msgs"/>
   <depend package="kdl"/>
