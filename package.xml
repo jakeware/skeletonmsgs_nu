@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package>
+  <name>skeletonmsgs_nu</name>
+  <version>0.0.1</version>
+  <description>
+     skeletonmsgs_nu
+  </description>
+
+  <maintainer email="JarvisSchultz2012@u.northwestern.edu">Jarvis Schultz</maintainer>
+  <author email="JarvisSchultz2012@u.northwestern.edu">Jarvis Schultz</author>
+  <license>BSD</license>
+
+  <!--Dependencies-->
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>std_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>kdl</build_depend>
+
+  <run_depend>std_msgs</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>kdl</run_depend>
+  <!---->  
+
+</package>
+
+
