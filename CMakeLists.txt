@@ -15,3 +15,4 @@ generate_messages(
   geometry_msgs
 )
 
+catkin_package()
